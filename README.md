@@ -69,7 +69,7 @@ An ESP8266-based WiFi deauthentication tool with OLED display and button control
 8. Done!
 ## Via ESP8266 Flasher
 1. Download the NodeMCU ESP8266 Flasher from [here](https://github.com/nodemcu/nodemcu-flasher) according to your operating system.
-2. Download the `.bin` file from [here](https://github.com/wirebits/CLI-Deauther/releases/download/v1.0.0/CLI-Deauther.bin).
+2. Download the `.bin` file from [here](https://github.com/wirebits/PacketStorm/releases/download/v1.0.0/PacketStorm.bin).
 3. Open NodeMCU ESP8266 Flasher.
 4. Select the correct port number of that board.
 5. Click on `Advanced` Tab.
