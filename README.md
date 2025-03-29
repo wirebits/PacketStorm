@@ -26,6 +26,9 @@ An ESP8266-based WiFi deauthentication tool with OLED display and button control
 | DOWN        | D6              |
 | SELECT      | D7              |
 
+# Connection Diagram
+![PacketStorm Circuit Diagram](https://github.com/user-attachments/assets/96cfaf38-063f-4d0c-a021-8f0e88c80c4c)
+
 # Note
 - `SCL` is sometimes also refered as `SCK`.
 - Connect `GND` of SSD1306 0.96" OLED Display and `3` Tacticle Push Buttons to one `GND` of NodeMCU ESP8266.
@@ -77,7 +80,7 @@ An ESP8266-based WiFi deauthentication tool with OLED display and button control
 7. Click on `Config` Tab.
    - It show `INTERNAL://NODEMCU`.
 8. Click on ![image](https://github.com/user-attachments/assets/1540d7e8-514a-4e60-a29d-3019699868df) in front of `INTERNAL://NODEMCU`.
-9. Select the `CLI-Deauther.bin` file.
+9. Select the `PacketStorm.bin` file.
 10. Click on `Operation` Tab.
 11. Click on `Flash(F)` button.
 12. Wait for sometimes and when completed, press `RST` button.
