@@ -8,7 +8,7 @@ An ESP8266-based WiFi deauthentication tool with OLED display and button control
 - NodeMCU ESP8266
 - One SSD1306 0.96" OLED Display (I2C)
 - `3` Tacticle Push Buttons
-- `11` Male to Male Jumper Wires
+- Male to Male Jumper Wires
 - Breadboard
 
 # Pinout Tables
